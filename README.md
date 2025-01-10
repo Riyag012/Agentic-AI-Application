@@ -101,3 +101,5 @@ The application handles the following errors:
 - **No Transcript Available**: If the video doesn’t have a transcript, an error message will be displayed.
 - **Video Unavailable**: If the video is unavailable or deleted, an error message will appear.
 - **General Errors**: Any other unexpected errors are caught and shown to the user in a user-friendly message.
+  
+
