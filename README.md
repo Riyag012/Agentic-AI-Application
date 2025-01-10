@@ -104,9 +104,14 @@ The application handles the following errors:
 
 ---
 
-## Screenshots
+## How to Use the Phidata Video Summarizer
 
-Here’s how the YouTube Video Summarizer looks in action:
+### Before Clicking the Button:
+1. Paste the YouTube video URL into the text box and click the "🔍 Summarize Video" button.
+   
+   ![Before Button Click](ss/ss1.png)
 
-![Screenshot 1](ss/ss1.png)
-![Screenshot 2](ss/ss2.png)
+### After Clicking the Button:
+2. Wait for a few moments while the summary is generated. The summary will appear below the button.
+
+   ![After Button Click](ss/ss2.png)
