@@ -102,10 +102,4 @@ The application handles the following errors:
 - **Video Unavailable**: If the video is unavailable or deleted, an error message will appear.
 - **General Errors**: Any other unexpected errors are caught and shown to the user in a user-friendly message.
   
----
 
-## Screenshots
-Here’s how the YouTube Video Summarizer looks in action:
-
-![Screenshot 1](Screenshot2025-01-10142407.png)
-![Screenshot 2](Screenshot2025-01-10142508.png)
