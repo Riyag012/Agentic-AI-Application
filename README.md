@@ -108,5 +108,5 @@ The application handles the following errors:
 
 Here’s how the YouTube Video Summarizer looks in action:
 
-![Screenshot 1](ss1.png)
-![Screenshot 2](ss2.png)
+![Screenshot 1](ss/ss1.png)
+![Screenshot 2](ss/ss2.png)
