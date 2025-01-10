@@ -107,5 +107,5 @@ The application handles the following errors:
 ## Screenshots
 Here’s how the YouTube Video Summarizer looks in action:
 
-![Screenshot 1](Screenshot 2025-01-10 142407.png)
-![Screenshot 2](Screenshot 2025-01-10 142508.png)
+![Screenshot 1](Screenshot2025-01-10142407.png)
+![Screenshot 2](Screenshot2025-01-10142508.png)
