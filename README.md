@@ -13,6 +13,7 @@ application fetches the video transcript, generates a summary, and presents it i
 - [How It Works](#how-it-works)
 - [API Key Configuration](#api-key-configuration)
 - [Error Handling](#error-handling)
+- [How to Use the Phidata Video Summarizer](#how-to-use-the-phidata-video-summarizer)
 
 ---
 
